@@ -1,4 +1,4 @@
-module amongodb
+module github.com/ludihan/amongodb
 
 go 1.24.3
 

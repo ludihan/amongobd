@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"amongodb/utils"
+	"github.com/ludihan/amongodb/utils"
 
 	"github.com/spf13/viper"
 	"go.mongodb.org/mongo-driver/v2/mongo"
